@@ -1,0 +1,58 @@
+.header{
+    position: absolute;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 180px;
+}
+
+.time li{
+    display: inline;
+    padding: 10px;
+
+}
+
+.time vl{
+    border-left: 3px solid rgb(52, 56, 52);
+  height: 9px;
+}
+
+.logo {
+    margin: auto;
+    padding: 5px;
+}
+
+
+
+.Nav li{
+   
+     display: inline;
+     
+
+}
+
+.heru{
+    width: 100%;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.heru img{
+    
+    width: 100%;
+    height: 90vh;
+    position: relative;
+    z-index: -1;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.heru h2{
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    width: 100%; 
+    color: white;
+}
+
+
